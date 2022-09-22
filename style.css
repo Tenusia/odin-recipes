@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornsilk;
+}
+
+h1 {
+    font-size: xx-large;
+    color: rgb(11, 98, 101);
+    font-weight: bold;
+}
+
+h2 {
+    font-size: x-large;
+    color: rgb(16, 135, 139);
+    font-weight: bold;
+}
+
+h3 {
+    font-size: larger;
+    color: rgb(19, 172, 178);
+    font-weight: bold;
+}
+
+ul {
+    color:rgb(94, 129, 195);
+    font-size: normal;
+}
+
+ol {
+    color:rgb(106, 128, 169);
+    font-size: normal;
+}
+
+p {
+    color:rgb(34, 51, 82);
+    font-size: normal;
+}
